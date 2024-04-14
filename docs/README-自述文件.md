@@ -37,13 +37,13 @@ ksjifjui 说他 修改了源码，请帮我找到他源码的仓库。
 <summary>🖱️点击展开查看🖱️</summary>
 
 ### 1024x768
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/between-1k.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/1k.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/between-1k.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/1k.png">
 
 ### 1920x1080
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/between-1080p.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/1080p-tree.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/1080p.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/between-1080p.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/1080p-tree.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/1080p.png">
 </details>
 
 ## 🧭指南⬇️
